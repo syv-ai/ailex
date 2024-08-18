@@ -38,7 +38,7 @@ const Product = () => {
   ];
 
   return (
-    <div className="bg-gray-50 overflow-hidden">
+    <div className="bg-gray-50 overflow-hidden pb-16">
       <div className="relative max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         {/* SVG and other content remain the same */}
         
@@ -102,7 +102,7 @@ const Product = () => {
             <img
               className="relative mx-auto"
               width="490"
-              src="/api/placeholder/490/350"
+              src="/zenfit.png"
               alt="Ailex interface mockup"
             />
           </div>

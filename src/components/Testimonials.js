@@ -29,21 +29,21 @@ const Testimonials = () => {
       name: "Mette Jensen",
       role: "Partner",
       company: "Jensen & Co. Advokatfirma",
-      image: "https://piq.codeus.net/picture/15617/tod_head_from_super_mario_bros?lang...",
+      image: "/dansk-pige.webp",
       quote: "Ailex har revolutioneret vores arbejdsgang. Vi sparer timevis af research-tid hver dag, hvilket giver os mulighed for at fokusere mere på at levere værdi til vores klienter."
     },
     {
       name: "Lars Nielsen",
       role: "Advokat",
       company: "Nielsen & Partners",
-      image: "/api/placeholder/100/100",
+      image: "/person2.webp",
       quote: "Den AI-drevne præcedens analyse i Ailex har givet os en klar konkurrencefordel. Vi kan nu hurtigt identificere relevante mønstre og tendenser i retspraksis."
     },
     {
       name: "Sofia Andersen",
       role: "Juridisk direktør",
       company: "TechCorp A/S",
-      image: "/api/placeholder/100/100",
+      image: "/person1.webp",
       quote: "Ailex's automatiserede dokumentgenerering har drastisk reduceret vores turnaround-tid for kontrakter. Det er et uundværligt værktøj for vores in-house juridiske team."
     }
   ];
